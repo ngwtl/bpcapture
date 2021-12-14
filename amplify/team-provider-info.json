@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bpcapture-dev-205300-authRole",
+      "UnauthRoleArn": "arn:aws:iam::993377915206:role/amplify-bpcapture-dev-205300-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::993377915206:role/amplify-bpcapture-dev-205300-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-bpcapture-dev-205300-deployment",
+      "UnauthRoleName": "amplify-bpcapture-dev-205300-unauthRole",
+      "StackName": "amplify-bpcapture-dev-205300",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:993377915206:stack/amplify-bpcapture-dev-205300/a3d8b830-5cc3-11ec-b8ab-063d08642fdc",
+      "AmplifyAppId": "d1lv0sn4adij3k"
+    }
+  }
+}

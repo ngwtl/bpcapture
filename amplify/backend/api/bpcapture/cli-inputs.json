@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "bpcapture",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/leonard/react_projects/bpcapture/amplify/backend/api/bpcapture/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
